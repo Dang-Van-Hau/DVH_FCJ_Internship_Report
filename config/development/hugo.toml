@@ -1,0 +1,4 @@
+# Local development — loaded automatically by `hugo server`
+baseURL = "http://127.0.0.1:1313/"
+relativeURLs = true
+canonifyURLs = false
