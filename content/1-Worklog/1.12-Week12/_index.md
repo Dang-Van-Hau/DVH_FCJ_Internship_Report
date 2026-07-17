@@ -28,7 +28,7 @@ AWS Well-Architected Tool · Lambda Function URL · DynamoDB · S3 · CloudWatch
 | Mon-Wed | Review Well-Architected pillars: Operational Excellence, Security, Reliability, Performance, Cost Optimization, Sustainability. Run a self-assessment on a sample architecture. | 06/07/2026 | 08/07/2026 | <https://000035.awsstudygroup.com/><br><https://000036.awsstudygroup.com/> |
 | Thu-Fri | Complete **URL Shortener** workshop end-to-end: Lambda Function URL backend, DynamoDB, S3 static frontend; test E2E flow. | 09/07/2026 | 10/07/2026 | [Workshop - URL Shortener](/5-workshop/) |
 | Sat | Cost audit: delete unused EC2, EBS snapshots, NAT Gateways, EKS clusters; verify Billing Dashboard and Budget alerts. | 11/07/2026 | 11/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| Sun | Write and polish internship report (Worklog, Events, Self-Assessment, Feedback); deploy Hugo site to GitHub Pages; final review with mentor. Internship ends. | 12/07/2026 | 12/07/2026 | <https://dang-van-hau.github.io/DVH_FCAJ_Internship_Report/> |
+| Sun | Write and polish internship report (Worklog, Events, Self-Assessment, Feedback); deploy Hugo site to GitHub Pages; final review with mentor. Internship ends. | 12/07/2026 | 12/07/2026 | <https://dang-van-hau.github.io/DVH_FCJ_Internship_Report/> |
 
 ### Week 12 Achievements
 

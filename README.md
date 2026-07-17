@@ -1,4 +1,4 @@
-# DVH_FCAJ_Internship_Report
+# DVH_FCJ_Internship_Report
 
 Báo cáo kết thúc thực tập **FCJ Cloud Intern** tại **First Cloud Journey – AWS FCJ HCM**.
 
@@ -9,7 +9,7 @@ Báo cáo kết thúc thực tập **FCJ Cloud Intern** tại **First Cloud Jour
 
 ## Website
 
-https://dang-van-hau.github.io/DVH_FCAJ_Internship_Report/
+https://dang-van-hau.github.io/DVH_FCJ_Internship_Report/
 
 ## Chạy local
 

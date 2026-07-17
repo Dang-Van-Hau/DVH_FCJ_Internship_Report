@@ -28,7 +28,7 @@ AWS Well-Architected Tool · Lambda Function URL · DynamoDB · S3 · CloudWatch
 | 2–4 | Ôn 6 trụ cột Well-Architected: Operational Excellence, Security, Reliability, Performance, Cost Optimization, Sustainability. Tự đánh giá trên kiến trúc mẫu. | 06/07/2026 | 08/07/2026 | <https://000035.awsstudygroup.com/><br><https://000036.awsstudygroup.com/> |
 | 5–6 | Hoàn thành workshop **URL Shortener** end-to-end: Lambda Function URL, DynamoDB, frontend tĩnh S3; test luồng E2E. | 09/07/2026 | 10/07/2026 | [Workshop — URL Shortener](/5-workshop/) |
 | 7 | Kiểm tra chi phí: xóa EC2, EBS snapshot, NAT Gateway, cluster EKS không dùng; kiểm tra Billing Dashboard và Budget alerts. | 11/07/2026 | 11/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| CN | Viết và chỉnh sửa báo cáo thực tập (Worklog, Events, Self-Assessment, Feedback); deploy Hugo lên GitHub Pages; review cuối với mentor. Kết thúc thực tập. | 12/07/2026 | 12/07/2026 | <https://dang-van-hau.github.io/DVH_FCAJ_Internship_Report/> |
+| CN | Viết và chỉnh sửa báo cáo thực tập (Worklog, Events, Self-Assessment, Feedback); deploy Hugo lên GitHub Pages; review cuối với mentor. Kết thúc thực tập. | 12/07/2026 | 12/07/2026 | <https://dang-van-hau.github.io/DVH_FCJ_Internship_Report/> |
 
 ### Kết quả đạt được tuần 12
 
