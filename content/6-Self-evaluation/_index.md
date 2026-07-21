@@ -17,7 +17,7 @@ I tried to connect each week's topics into a coherent path — from IAM and VPC 
 | **12-week Worklog** | Weekly labs on Cloud Journey & AWS Study Group | Practiced core AWS services; documented challenges and how I resolved them |
 | **Serverless URL Shortener** | [Workshop](/5-workshop/) | Deployed S3, Lambda Function URL, DynamoDB with CloudWatch/SNS monitoring — my main individual project |
 | **Architecture Proposal** | [Proposal](/2-Proposal/) | Contributed to group proposal (architecture, deployment flow, budget, risks) |
-| **Translated Blogs** | [Blogs](/3-BlogsTranslated/) | Five technical articles as part of group work |
+| **Translated Blogs** | [Blogs](/3-BlogsTranslated/) | Group blog: Spaced Repetition with Bedrock & Step Functions |
 | **Community Events** | [Events](/4-EventParticipated/) | Attended two FCJ meetups; applied shared learning tips to my plan |
 | **Bilingual Report** | This site (EN + VI) | Completed internship report and published on GitHub Pages |
 

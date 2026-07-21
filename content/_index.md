@@ -31,7 +31,7 @@ This report documents my **12-week FCJ Cloud Internship** at **First Cloud Journ
 | --- | ------- | ----------- |
 | 1 | [Worklog](1-Worklog/) | 12-week learning journey: AWS fundamentals → serverless → containers → data & AI/ML |
 | 2 | [Proposal](2-Proposal/) | Group architecture proposal with deployment flow, budget, and risk analysis |
-| 3 | [Translated Blogs](3-BlogsTranslated/) | Five AWS technical blogs translated for the Vietnamese community |
+| 3 | [Translated Blogs](3-BlogsTranslated/) | Community AWS article on Bedrock & Step Functions (Spaced Repetition) |
 | 4 | [Events Participated](4-EventParticipated/) | FCJ Sharing Meetup (30/05) and AWS Cloud Quiz Championship (20/06) at Bitexco |
 | 5 | [Workshop](5-Workshop/) | Serverless URL Shortener: S3, Lambda Function URL, DynamoDB, CloudWatch |
 | 6 | [Self-Assessment](6-Self-evaluation/) | Honest evaluation of skills, work ethic, and growth during the internship |
