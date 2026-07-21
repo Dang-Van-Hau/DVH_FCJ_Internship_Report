@@ -17,7 +17,7 @@ Tôi cố gắng kết nối nội dung từng tuần thành một lộ trình m
 | **Worklog 12 tuần** | Lab hàng tuần trên Cloud Journey & AWS Study Group | Thực hành dịch vụ AWS cốt lõi; ghi chép khó khăn và cách xử lý |
 | **URL Shortener serverless** | [Workshop](/5-workshop/) | Deploy S3, Lambda Function URL, DynamoDB kèm giám sát CloudWatch/SNS — project cá nhân chính |
 | **Proposal kiến trúc** | [Proposal](/2-Proposal/) | Đóng góp proposal nhóm (kiến trúc, luồng triển khai, ngân sách, rủi ro) |
-| **Blog dịch thuật** | [Blogs](/3-BlogsTranslated/) | Blog nhóm: Spaced Repetition với Bedrock & Step Functions |
+| **Blog dịch thuật** | [Blogs](/3-BlogsTranslated/) | Ba blog nhóm: Spaced Repetition (Bedrock/Step Functions), phụ đề Transcribe, đồng bộ tiến độ AppSync |
 | **Sự kiện cộng đồng** | [Events](/4-EventParticipated/) | Tham dự hai meetup FCJ; áp dụng gợi ý học tập vào kế hoạch cá nhân |
 | **Báo cáo song ngữ** | Trang web này (EN + VI) | Hoàn thành báo cáo thực tập và xuất bản trên GitHub Pages |
 
