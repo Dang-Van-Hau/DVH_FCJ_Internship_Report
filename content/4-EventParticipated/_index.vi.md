@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Trong quá trình thực tập tại **First Cloud Journey – AWS FCJ HCM** với tư cách **Đặng Văn Hậu (MSSV: 2280600883)**, tôi đã tham gia các sự kiện học thuật và cộng đồng liên quan đến AWS và FCAJ. Dưới đây là thông tin tóm tắt và bài thu hoạch chi tiết.
+Trong quá trình thực tập tại **First Cloud Journey – AWS FCJ HCM** với tư cách **Đặng Văn Hậu (MSSV: 2280600883)**, và cả giai đoạn ngay sau đó, tôi đã tham gia các sự kiện học thuật và cộng đồng liên quan đến AWS và FCAJ. Dưới đây là thông tin tóm tắt và bài thu hoạch chi tiết.
 
 ### [Event 1](4.1-Event1/)
 
@@ -23,6 +23,16 @@ Trong quá trình thực tập tại **First Cloud Journey – AWS FCJ HCM** v�
 &emsp;**Tên sự kiện:** FCJ AWS Cloud Quiz Championship (thi đấu 8 đội)
 
 &emsp;**Thời gian:** 09:00 – 17:00 ngày 20/06/2026 (check-in 08:30 – 09:00)
+
+&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự (khán giả)
+
+### [Event 3](4.3-Event3/)
+
+&emsp;**Tên sự kiện:** FCAJ – Agentic AI Build Week (buổi chia sẻ của các đội hackathon)
+
+&emsp;**Thời gian:** 09:30 – 12:00 ngày 25/07/2026
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 

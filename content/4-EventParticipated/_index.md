@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-During my internship at **First Cloud Journey – AWS FCJ HCM** as **Dang Van Hau (MSSV: 2280600883)**, I took part in academic and community events related to AWS and FCAJ. Below are summaries and detailed write-ups.
+During my internship at **First Cloud Journey – AWS FCJ HCM** as **Dang Van Hau (MSSV: 2280600883)**, and in the period right after it, I took part in academic and community events related to AWS and FCAJ. Below are summaries and detailed write-ups.
 
 ### [Event 1](4.1-Event1/)
 
@@ -23,6 +23,16 @@ During my internship at **First Cloud Journey – AWS FCJ HCM** as **Dang Van Ha
 &emsp;**Event name:** FCJ AWS Cloud Quiz Championship (8-team competition)
 
 &emsp;**Time:** 09:00 – 17:00 on 20/06/2026 (check-in 08:30 – 09:00)
+
+&emsp;**Location:** Floor 26, Bitexco Building, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+
+&emsp;**Role:** Attendee (audience)
+
+### [Event 3](4.3-Event3/)
+
+&emsp;**Event name:** FCAJ – Agentic AI Build Week (hackathon team sharing session)
+
+&emsp;**Time:** 09:30 – 12:00 on 25/07/2026
 
 &emsp;**Location:** Floor 26, Bitexco Building, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 

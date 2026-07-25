@@ -18,7 +18,7 @@ I tried to connect each week's topics into a coherent path — from IAM and VPC 
 | **Serverless URL Shortener** | [Workshop](/5-workshop/) | Deployed S3, Lambda Function URL, DynamoDB with CloudWatch/SNS monitoring — my main individual project |
 | **Architecture Proposal** | [Proposal](/2-Proposal/) | Contributed to group proposal (architecture, deployment flow, budget, risks) |
 | **Translated Blogs** | [Blogs](/3-BlogsTranslated/) | Three group blogs: Spaced Repetition (Bedrock/Step Functions), Transcribe subtitles, AppSync progress sync |
-| **Community Events** | [Events](/4-EventParticipated/) | Attended two FCJ meetups; applied shared learning tips to my plan |
+| **Community Events** | [Events](/4-EventParticipated/) | Attended three FCJ events, including the Agentic AI Build Week sharing after the program; applied shared learning tips to my plan |
 | **Bilingual Report** | This site (EN + VI) | Completed internship report and published on GitHub Pages |
 
 ### Measurable Growth

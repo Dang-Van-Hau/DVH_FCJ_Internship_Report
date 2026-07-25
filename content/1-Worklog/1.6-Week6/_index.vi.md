@@ -29,7 +29,7 @@ Lambda · API Gateway · DynamoDB · Step Functions · EventBridge · S3
 | 3 | Lab: xây Book Store REST API — API Gateway + Lambda + DynamoDB (CRUD, mã JSON đúng). | 26/05/2026 | 27/05/2026 | <https://000078.awsstudygroup.com/><br><https://000066.awsstudygroup.com/> |
 | 4 | Tiếp tục backend Book Store; tích hợp S3 nếu cần; kiểm tra response API và mã lỗi. | 28/05/2026 | 28/05/2026 | <https://000078.awsstudygroup.com/><br><https://000079.awsstudygroup.com/> |
 | 5 | Lab: workflow Step Functions — ValidateOrder → ProcessPayment → UpdateInventory → SendNotification. | 29/05/2026 | 29/05/2026 | <https://000047.awsstudygroup.com/> |
-| 6 | Tham dự **FCJ Sharing Meet up** tại Bitexco (check-in 08:30; 09:00–17:00). Nghe các phần chia sẻ (The Ballers, Huynh Thai Linh, Nguyen Thi Quynh Nhu và các speaker khác). | 30/05/2026 | 30/05/2026 | [Event 1](/4-eventparticipated/4.1-event1/) |
+| 7 | Tham dự **FCJ Sharing Meet up** tại Bitexco (check-in 08:30; 09:00–17:00). Nghe các phần chia sẻ (The Ballers, Huynh Thai Linh, Nguyen Thi Quynh Nhu và các speaker khác). | 30/05/2026 | 30/05/2026 | [Event 1](/4-eventparticipated/4.1-event1/) |
 
 ### Kết quả đạt được tuần 6
 

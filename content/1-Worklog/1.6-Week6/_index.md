@@ -29,7 +29,7 @@ Lambda · API Gateway · DynamoDB · Step Functions · EventBridge · S3
 | Tue | Lab: build Book Store REST API — API Gateway + Lambda + DynamoDB (CRUD, proper JSON status codes). | 26/05/2026 | 27/05/2026 | <https://000078.awsstudygroup.com/><br><https://000066.awsstudygroup.com/> |
 | Wed | Continue Book Store backend; integrate S3 if needed; validate API responses and error codes. | 28/05/2026 | 28/05/2026 | <https://000078.awsstudygroup.com/><br><https://000079.awsstudygroup.com/> |
 | Thu | Lab: Step Functions workflow — ValidateOrder → ProcessPayment → UpdateInventory → SendNotification. | 29/05/2026 | 29/05/2026 | <https://000047.awsstudygroup.com/> |
-| Fri | Attend **FCJ Sharing Meet up** at Bitexco (check-in 08:30; 09:00–17:00). Listen to speaker sessions (The Ballers, Huynh Thai Linh, Nguyen Thi Quynh Nhu, and others). | 30/05/2026 | 30/05/2026 | [Event 1](/4-eventparticipated/4.1-event1/) |
+| Sat | Attend **FCJ Sharing Meet up** at Bitexco (check-in 08:30; 09:00–17:00). Listen to speaker sessions (The Ballers, Huynh Thai Linh, Nguyen Thi Quynh Nhu, and others). | 30/05/2026 | 30/05/2026 | [Event 1](/4-eventparticipated/4.1-event1/) |
 
 ### Week 6 Achievements
 
