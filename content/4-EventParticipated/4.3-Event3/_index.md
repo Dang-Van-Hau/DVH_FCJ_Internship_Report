@@ -39,9 +39,9 @@ Although my 12-week internship program ended on **12/07/2026**, I continued to j
 | **Team sharing** | Teams presented one after another, each covering their journey from idea to working agent. |
 | **Q&A** | Short questions from the audience after each team's slot. |
 
-Most teams followed a similar presentation structure, which made the sessions easy to follow and compare:
+One Team opened with this agenda; most other teams followed a similar structure, which made the sessions easy to follow and compare:
 
-![Common sharing structure used by the teams](/images/4-EventParticipated/4.3-Event3/sharing-agenda.png)
+![Example sharing agenda from One Team](/images/4-EventParticipated/4.3-Event3/sharing-agenda.png)
 
 **Our team → Challenges → Problem & Solution → Workflow & Architecture → Impact → Demo**
 

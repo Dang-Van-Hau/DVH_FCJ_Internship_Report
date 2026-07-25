@@ -39,9 +39,9 @@ Dù chương trình thực tập 12 tuần của tôi kết thúc ngày **12/07/
 | **Các đội chia sẻ** | Các đội trình bày lần lượt, mỗi đội kể hành trình từ ý tưởng đến agent chạy được. |
 | **Hỏi đáp** | Khán giả đặt câu hỏi ngắn sau phần của mỗi đội. |
 
-Phần lớn các đội dùng chung một khung trình bày, giúp người nghe dễ theo dõi và đối chiếu:
+One Team mở đầu bằng khung trình bày dưới đây; các đội khác cũng dùng cấu trúc tương tự, giúp người nghe dễ theo dõi và đối chiếu:
 
-![Khung trình bày chung của các đội](/images/4-EventParticipated/4.3-Event3/sharing-agenda.png)
+![Ví dụ khung trình bày của One Team](/images/4-EventParticipated/4.3-Event3/sharing-agenda.png)
 
 **Our team → Challenges → Problem & Solution → Workflow & Architecture → Impact → Demo**
 
